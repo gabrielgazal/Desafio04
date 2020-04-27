@@ -1,0 +1,4 @@
+module memplugin {
+    umbrella "/Users/GabrielGazal/Documents/Academy/Kitura03/.build/checkouts/omr-agentcore/src/memplugin/include"
+    export *
+}
